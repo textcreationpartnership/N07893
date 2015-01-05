@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:0F7D1DC5E8070260:010065_0000_0F7C7565E21933C8"/>
-            <pb n="1" facs="tcp:0F7D1DC5E8070260:010065_0001_0F7C7567357EBB90"/>
+            <pb facs="unknown:010065_0000_0F7C7565E21933C8"/>
+            <pb n="1" facs="unknown:010065_0001_0F7C7567357EBB90"/>
             <head>MARTIS, 29 <hi>Die</hi> OCTOBRIS, <hi>A. D.</hi> 1765. In the House of REPRESENTATIVES.</head>
             <p>ACcording to the Order of the Day, there being a very full House, the following Draft, which had been laid on the Table was <hi>particularly</hi> considered, and thereupon <hi>Voted.</hi>
             </p>
@@ -131,7 +131,7 @@
             <p n="8">8. <hi>Resolved,</hi> That those Rights do belong to the In<g ref="char:EOLhyphen"/>habitants of this Province, upon Principles of <hi>common Iustice</hi>; their Ancestors, having settled this Country at their <hi>sole Expence</hi>; and <hi>their</hi> Posterity, having con<g ref="char:EOLhyphen"/>stantly approved themselves most loyal and faithful Subjects of <hi>Great-Britain.</hi>
             </p>
             <p n="9">
-               <pb n="2" facs="tcp:0F7D1DC5E8070260:010065_0002_0F7C7567DE595D08"/>9. <hi>Resolved,</hi> That every Individual in the Colonies, is as advantageous to <hi>Great-Britain,</hi> as if he were in <hi>Great-Britain,</hi> and held to pay his full Proportion of Taxes there: And as the Inhabitants of this Province, pay their full Proportion of Taxes, for the Support of his Majesty's Government <hi>here,</hi> it is unreasonable for them to be called upon, to pay any Part of the Charges of the Government <hi>there.</hi>
+               <pb n="2" facs="unknown:010065_0002_0F7C7567DE595D08"/>9. <hi>Resolved,</hi> That every Individual in the Colonies, is as advantageous to <hi>Great-Britain,</hi> as if he were in <hi>Great-Britain,</hi> and held to pay his full Proportion of Taxes there: And as the Inhabitants of this Province, pay their full Proportion of Taxes, for the Support of his Majesty's Government <hi>here,</hi> it is unreasonable for them to be called upon, to pay any Part of the Charges of the Government <hi>there.</hi>
             </p>
             <p n="10">10. <hi>Resolved,</hi> That the Inhabitants of this Province are not, and never have been, represented in the Parlia<g ref="char:EOLhyphen"/>ment of <hi>Great-Britain:</hi> And that such a Representati<g ref="char:EOLhyphen"/>on <hi>there,</hi> as the Subjects in <hi>Britain,</hi> do actually and rightfully enjoy, is <hi>impracticable</hi> for the Subjects <hi>in America:</hi>—And further, That in the Opinion of this House, the several subordinate Powers of Legislation in <hi>America,</hi> were constituted upon the Apprehensions of this <hi>Impracticability.</hi>
             </p>
